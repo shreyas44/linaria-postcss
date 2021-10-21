@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Use PostCSS with Linaria",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": "https://github.com/shreyas44/linaria-postcss",
   "license": "MIT",
   "devDependencies": {
