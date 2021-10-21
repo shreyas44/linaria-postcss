@@ -1,0 +1,14 @@
+{
+  "name": "linaria-postcss",
+  "version": "0.1.0",
+  "description": "Use PostCSS with Linaria",
+  "main": "index.js",
+  "repository": "https://github.com/shreyas44/linaria-postcss",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "postcss": "^8.3.11"
+  }
+}
